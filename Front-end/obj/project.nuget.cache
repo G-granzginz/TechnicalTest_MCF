@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2KlBSMZwZZAaXl5VuyExLa1n2og9PdjDj5QOFQvrN4dEhAFbzIW4MkzA7/vx7uMPfw6u2YXOv7PSdDJuUeKuOg==",
+  "success": true,
+  "projectFilePath": "C:\\GranzGinz\\Test Programming\\MCF PAKE GIT\\TechnicalTest_MCF\\Front-end\\Front-end.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nano\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nano\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nano\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\nano\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
