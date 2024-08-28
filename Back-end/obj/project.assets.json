@@ -10705,6 +10705,7 @@
       "Microsoft.EntityFrameworkCore.Design >= 6.0.33",
       "Microsoft.EntityFrameworkCore.SqlServer >= 6.0.33",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 6.0.17",
+      "Newtonsoft.Json >= 13.0.3",
       "Swashbuckle.AspNetCore >= 6.5.0"
     ]
   },
@@ -10764,6 +10765,10 @@
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
             "target": "Package",
             "version": "[6.0.17, )"
+          },
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.3, )"
           },
           "Swashbuckle.AspNetCore": {
             "target": "Package",

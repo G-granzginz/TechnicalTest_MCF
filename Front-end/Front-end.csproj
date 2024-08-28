@@ -5,6 +5,18 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <RootNamespace>Front_end</RootNamespace>
+    <Copyright>Ginanjar (GranzGinz)</Copyright>
+    <Description>Simple beauty front</Description>
+    <AnalysisLevel>latest-recommended</AnalysisLevel>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\fonts\.DS_Store" />
+    <None Include="wwwroot\images\.DS_Store" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+  </ItemGroup>
 
 </Project>

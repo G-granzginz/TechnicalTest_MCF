@@ -13,8 +13,10 @@ using System.Reflection;
 
 [assembly: System.Reflection.AssemblyCompanyAttribute("Front-end")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
+[assembly: System.Reflection.AssemblyCopyrightAttribute("Ginanjar (GranzGinz)")]
+[assembly: System.Reflection.AssemblyDescriptionAttribute("Simple beauty front")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4e29a94715acf7a59226dd0782e153d88ff8b3f0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f91f44468aca24f1c3283962fbb24e2dc31507c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Front-end")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Front-end")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
